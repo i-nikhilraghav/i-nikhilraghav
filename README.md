@@ -72,9 +72,40 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<a href="https://github.com/i-nikhilraghav">GitHub</a>
 </p>
 
+<p align="left">
+
+<a href="https://x.com/I_nikhilraghav" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iamnikhilraghav/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/iamnikhilraghav" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/i_nikhilraghav/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.threads.com/@i_nikhilraghav" target="_blank">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+</a>
+
+<a href="https://in.pinterest.com/i_nikhilraghav/" target="_blank">
+<img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/i_nikhilraghav" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ⭐ *Keep Coding. Keep Growing.*
