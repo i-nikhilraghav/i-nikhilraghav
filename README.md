@@ -1,27 +1,51 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">🚀 Daily Coding | Learning Developer | Building Projects</h3>
+<h1 align="center">Hi 👋 I'm Nikhil Raghav</h1>
+<a href="https://i-nikhilraghav.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Website-Nikhil%20Raghav-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<h3 align="center">
+IT Engineer | Digital Marketing Professional | Ethical Hacker
+</h3>
+
+<p align="center">
+Experienced technology professional with over <b>8+ years of expertise</b> in IT infrastructure, networking, cybersecurity, and digital marketing.
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Web Development**
-- 💻 Doing **Daily Coding Practice**
-- 📚 Improving **DSA & Problem Solving**
-- 🎯 Goal: Become a **Full Stack Developer**
-- ⚡ Fun fact: I try to **code every day**
+💻 IT Engineer and Digital Marketing Professional with **8+ years of experience**
+
+🔧 Specialized in:
+- Hardware & IT Infrastructure
+- Computer Networking
+- Surveillance Systems (CCTV / Security)
+- Cybersecurity & Ethical Hacking
+- Digital Marketing & Online Growth
+
+🌐 Passionate about technology, cybersecurity, and building digital solutions.
 
 ---
 
-## 📅 Daily Coding Challenge
+## 🛠 Skills & Technologies
 
-| Day | Project |
-|----|----|
-| Day 01 | HTML Practice |
-| Day 02 | CSS Layout |
-| Day 03 | JavaScript Basics |
-| Day 04 | Algorithm Practice |
-| Day 05 | Mini Project |
+**IT Infrastructure**
+- Computer Hardware
+- System Administration
+- Network Configuration
+- IT Troubleshooting
+
+**Security**
+- Ethical Hacking
+- Cybersecurity
+- Surveillance Systems
+- CCTV Installation & Monitoring
+
+**Digital**
+- Digital Marketing
+- SEO & Online Branding
+- Social Media Strategy
 
 ---
 
@@ -33,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-nikhilraghav&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -106,6 +130,10 @@
 </a>
 
 </p>
----
 
-⭐ *Keep Coding. Keep Growing.*
+⭐ *Keep Coding. Keep Growing.* 
+⭐ **Technology | Security | Innovation**
+
+
+
+
